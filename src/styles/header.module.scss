@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    background: linear-gradient(#e66465,#fff);
+    color: #000;
+    font-size: 1.4rem;
+    font-weight: 600;
+    left: 0;
+    padding: 2rem;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    max-width: -webkit-fill-available;
+  }
+  
+  .item {
+    color: black;
+    padding: 1rem;
+    &:hover {
+        color: white;
+    }
+}

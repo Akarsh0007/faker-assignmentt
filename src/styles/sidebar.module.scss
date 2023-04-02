@@ -1,0 +1,11 @@
+.sidebar_container {
+    max-width: 60rem;
+    box-shadow: rgba(19,46,112,0.1) -1rem 0 4rem 0;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 70%;
+    max-width: 80rem;
+    transform: translateX(100%);
+    transition: 180ms;
+  }
